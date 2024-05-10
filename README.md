@@ -1,2 +1,5 @@
 # testrepo
-for IBM DSC cert
+
+## This Repo is for my IBM DSC certification
+
+by Sheena Patel
